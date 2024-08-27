@@ -1,0 +1,37 @@
+Java
+	--> JDK 
+	java.sun.com
+
+	--> IDE
+		--> Apache Netbeans
+		netbeans.org
+
+		--> Intellij Idea
+		--> Eclipse
+		--> Visual Studio Code
+
+		---------------------------
+
+POO
+	--> Clase Auto
+		--> atributos: marca, color, velocidad
+		--> metodos: acelerar, frenar, arrancar
+
+	--> Clase CajaDeAhorro
+		--> atributos: cbu, saldo, moneda 
+		--> metodos: depositar, transferir, extraer
+
+	--> Clase Perro
+		--> atributos: raza, pelaje, edad
+		--> metodos: ladrar, correr, morder
+
+	---------------------------------------
+
+	Estructura App Java
+		--> App
+			--> paquete
+				-> Clase
+					-> atributos
+					-> metodos
+
+
